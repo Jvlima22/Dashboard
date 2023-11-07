@@ -1,0 +1,178 @@
+Id_venda,Dia,Mês,Ano,Vencimento,Produto,Categoria,Estoque,Compra,Venda,Vendas,Lucro(reais),Consultor,Turno,Forma_pagamento
+45453,14,Jan,2020,abr.-25,Maçã,Fruta,45,"R$ 3,00","R$ 7,00",37,"R$ 277,00",Ana ,Noite,Dinheiro
+34575,15,Jul,2019,mar.-25,Banana,Fruta,13,"R$ 2,00","R$ 5,00",45,"R$ 225,00",Ester,Tarde,Pix
+87536,25,Mai,2022,fev.-25,Laranja,Fruta,30,"R$ 2,00","R$ 5,00",24,"R$ 120,00",Ana ,Noite,Pix
+21457,20,Nov,2021,abr.-25,Uva,Fruta,103,"R$ 4,00","R$ 10,00",35,"R$ 350,00",Cláudia,Manhã,Pix
+69348,10,Abr,2018,mar.-25,Pera,Fruta,73,"R$ 3,00","R$ 7,00",46,"R$ 345,00",Ester,Tarde,Crédito
+54896,5,Jun,2023,fev.-25,Morango,Fruta,58,"R$ 5,00","R$ 12,00",36,"R$ 450,00",Ana ,Noite,Dinheiro
+32761,12,Set,2017,fev.-25,Abacaxi,Fruta,100,"R$ 4,00","R$ 10,00",45,"R$ 450,00",Cláudia,Manhã,Dinheiro
+96182,18,Fev,2020,mai.-25,Melancia,Fruta,23,"R$ 3,00","R$ 7,00",30,"R$ 225,00",Ester,Tarde,Dinheiro
+45879,22,Dez,2019,mar.-25,Manga,Fruta,33,"R$ 3,00","R$ 7,00",42,"R$ 315,00",Ana ,Noite,Pix
+73619,28,Mar,2021,fev.-25,Kiwi,Fruta,145,"R$ 4,00","R$ 10,00",31,"R$ 310,00",Cláudia,Manhã,Dinheiro
+24873,30,Ago,2018,mar.-25,Limão,Fruta,44,"R$ 2,00","R$ 5,00",38,"R$ 190,00",Ana ,Noite,Crédito
+58621,15,Out,2023,abr.-25,Cereja,Fruta,46,"R$ 6,00","R$ 15,00",20,"R$ 300,00",Ester,Tarde,Pix
+36975,25,Fev,2017,abr.-25,Framboesa,Fruta,51,"R$ 5,00","R$ 12,00",34,"R$ 425,00",Cláudia,Manhã,Crédito
+13759,20,Set,2022,fev.-25,Ameixa,Fruta,57,"R$ 3,00","R$ 7,00",39,"R$ 292,00",Ester,Tarde,Dinheiro
+71963,10,Abr,2020,mai.-25,Maracujá,Fruta,39,"R$ 4,00","R$ 10,00",44,"R$ 440,00",Cláudia,Manhã,Dinheiro
+92687,5,Jan,2019,mar.-25,Caju,Fruta,111,"R$ 5,00","R$ 12,00",41,"R$ 512,00",Ester,Tarde,Dinheiro
+47268,12,Mar,2018,mar.-25,Tangerina,Fruta,120,"R$ 3,00","R$ 7,00",50,"R$ 375,00",Ana ,Noite,Pix
+81527,18,Nov,2021,mar.-25,Goiaba,Fruta,168,"R$ 3,00","R$ 7,00",32,"R$ 240,00",Ester,Tarde,Dinheiro
+69375,22,Jun,2022,mar.-25,Melão,Fruta,149,"R$ 2,00","R$ 5,00",26,"R$ 120,00",Cláudia,Manhã,Dinheiro
+52769,28,Ago,2017,abr.-25,Mamão,Fruta,48,"R$ 2,00","R$ 5,00",25,"R$ 125,00",Cláudia,Manhã,Pix
+36782,30,Out,2023,jan.-25,Cenoura,Legume,93,"R$ 2,00","R$ 5,00",29,"R$ 145,00",Ester,Tarde,Pix
+84517,15,Mai,2019,mar.-25,Batata,Legume,37,"R$ 1,00","R$ 2,00",33,"R$ 82,00",Ana ,Noite,Pix
+26791,25,Jul,2020,mai.-25,Brócolis,Legume,176,"R$ 3,00","R$ 7,00",37,"R$ 277,00",Cláudia,Manhã,Pix
+19856,20,Dez,2018,abr.-25,Couve-flor,Legume,12,"R$ 3,00","R$ 7,00",28,"R$ 210,00",Ana ,Noite,Pix
+57689,10,Ago,2021,mar.-25,Abóbora,Legume,131,"R$ 2,00","R$ 5,00",47,"R$ 235,00",Ester,Tarde,Pix
+83461,5,Abr,2022,mai.-25,Espinafre,Legume,1,"R$ 2,00","R$ 5,00",23,"R$ 115,00",Ana ,Noite,Pix
+61748,12,Set,2017,jan.-25,Alho,Legume,60,"R$ 1,00","R$ 2,00",40,"R$ 100,00",Cláudia,Manhã,Crédito
+48261,18,Mar,2019,mar.-25,Cebola,Legume,166,"R$ 1,00","R$ 2,00",27,"R$ 67,00",Ana ,Noite,Dinheiro
+76934,22,Jun,2023,mar.-25,Pimentão,Legume,97,"R$ 1,00","R$ 2,00",49,"R$ 122,00",Ester,Tarde,Crédito
+37468,28,Fev,2020,jan.-25,Tomate,Legume,180,"R$ 2,00","R$ 5,00",43,"R$ 215,00",Cláudia,Manhã,Dinheiro
+98517,30,Nov,2018,mar.-25,Pepino,Legume,140,"R$ 1,00","R$ 2,00",22,"R$ 55,00",Ester,Tarde,Pix
+64128,15,Jul,2022,abr.-25,Ervilha,Legume,191,"R$ 2,00","R$ 5,00",48,"R$ 240,00",Ana ,Noite,Dinheiro
+72489,25,Mai,2017,fev.-25,Milho,Legume,19,"R$ 2,00","R$ 5,00",21,"R$ 105,00",Ester,Tarde,Crédito
+18694,20,Out,2021,jan.-25,Aipo,Legume,95,"R$ 1,00","R$ 2,00",28,"R$ 70,00",Cláudia,Manhã,Pix
+57826,10,Jan,2019,fev.-25,Aspargo,Legume,172,"R$ 3,00","R$ 7,00",38,"R$ 285,00",Cláudia,Manhã,Pix
+31578,5,Dez,2020,mai.-25,Alho-poró,Legume,84,"R$ 2,00","R$ 5,00",26,"R$ 130,00",Ester,Tarde,Pix
+86719,12,Jun,2018,abr.-25,Nabo,Legume,60,"R$ 1,00","R$ 2,00",36,"R$ 90,00",Ana ,Noite,Crédito
+68914,18,Nov,2023,fev.-25,Beterraba,Legume,104,"R$ 1,00","R$ 2,00",50,"R$ 125,00",Ester,Tarde,Dinheiro
+19482,22,Abr,2017,mar.-25,Berinjela,Legume,63,"R$ 2,00","R$ 5,00",31,"R$ 155,00",Ana ,Noite,Crédito
+21876,28,Fev,2022,mai.-25,Rúcula,Legume,171,"R$ 2,00","R$ 5,00",29,"R$ 145,00",Cláudia,Manhã,Dinheiro
+95184,30,Mai,2020,mar.-25,Alface,Legume,99,"R$ 1,00","R$ 2,00",43,"R$ 107,00",Ana ,Noite,Pix
+63874,15,Set,2019,fev.-25,Repolho,Legume,38,"R$ 2,00","R$ 5,00",42,"R$ 210,00",Ester,Tarde,Dinheiro
+48396,20,Ago,2018,mar.-25,Chicória,Legume,134,"R$ 1,00","R$ 2,00",37,"R$ 92,00",Cláudia,Manhã,Pix
+76918,10,Mar,2021,abr.-25,Agrião,Legume,52,"R$ 2,00","R$ 5,00",41,"R$ 205,00",Ana ,Noite,Crédito
+85736,5,Jul,2022,mar.-25,Acelga,Legume,186,"R$ 2,00","R$ 5,00",45,"R$ 225,00",Ester,Tarde,Dinheiro
+21698,18,Out,2017,abr.-25,Rabanete,Legume,10,"R$ 1,00","R$ 2,00",33,"R$ 82,00",Ana ,Noite,Dinheiro
+96247,22,Dez,2019,fev.-25,Endívia,Legume,29,"R$ 2,00","R$ 5,00",46,"R$ 230,00",Ester,Tarde,Pix
+37961,28,Jan,2023,mai.-25,Mostarda,Legume,91,"R$ 1,00","R$ 2,00",25,"R$ 62,00",Cláudia,Manhã,Dinheiro
+14589,30,Fev,2020,jan.-25,Bife de filé mignon,Carne,76,"R$ 25,00","R$ 62,00",22,"R$ 1.375,00",Ana ,Noite,Dinheiro
+72684,15,Jun,2018,abr.-25,Peito de frango,Carne,68,"R$ 8,00","R$ 20,00",44,"R$ 880,00",Ester,Tarde,Pix
+69241,25,Abr,2022,mar.-25,Costela de porco,Carne,16,"R$ 15,00","R$ 37,00",20,"R$ 750,00",Cláudia,Manhã,Pix
+41879,20,Mar,2017,mai.-25,Salsicha,Carne,117,"R$ 6,00","R$ 15,00",48,"R$ 720,00",Ana ,Noite,Pix
+98316,10,Ago,2021,mar.-25,Linguiça,Carne,158,"R$ 7,00","R$ 17,00",30,"R$ 525,00",Cláudia,Manhã,Pix
+51869,5,Set,2019,fev.-25,Carne moída,Carne,21,"R$ 10,00","R$ 25,00",35,"R$ 875,00",Ester,Tarde,Pix
+68257,12,Nov,2023,mar.-25,Peixe tilápia,Carne,74,"R$ 12,00","R$ 30,00",39,"R$ 1.170,00",Ester,Tarde,Pix
+36748,18,Mai,2018,abr.-25,Lombo de cordeiro,Carne,3,"R$ 20,00","R$ 50,00",32,"R$ 1.600,00",Ana ,Noite,Pix
+78196,22,Jul,2020,fev.-25,Picanha,Carne,75,"R$ 30,00","R$ 75,00",27,"R$ 2.025,00",Cláudia,Manhã,Dinheiro
+57916,28,Out,2022,abr.-25,Carne de pato,Carne,115,"R$ 18,00","R$ 45,00",49,"R$ 2.205,00",Cláudia,Manhã,Dinheiro
+96871,30,Nov,2017,jan.-25,Leite,Laticínio,149,"R$ 4,00","R$ 10,00",34,"R$ 340,00",Ana ,Noite,Crédito
+51786,15,Abr,2019,fev.-25,Queijo cheddar,Laticínio,89,"R$ 10,00","R$ 25,00",23,"R$ 575,00",Ester,Tarde,Dinheiro
+47628,25,Jun,2023,fev.-25,Iogurte,Laticínio,121,"R$ 3,00","R$ 7,00",40,"R$ 300,00",Cláudia,Manhã,Pix
+82769,20,Mai,2021,jan.-25,Manteiga,Laticínio,158,"R$ 8,00","R$ 20,00",33,"R$ 660,00",Ester,Tarde,Dinheiro
+69421,10,Mar,2018,mar.-25,Creme de leite,Laticínio,98,"R$ 4,00","R$ 10,00",29,"R$ 290,00",Ana ,Noite,Crédito
+12479,5,Set,2022,mar.-25,Queijo parmesão,Laticínio,112,"R$ 12,00","R$ 30,00",21,"R$ 630,00",Cláudia,Manhã,Pix
+81679,12,Jul,2020,fev.-25,Coalhada,Laticínio,161,"R$ 5,00","R$ 12,00",41,"R$ 512,00",Ester,Tarde,Pix
+27846,18,Ago,2017,mai.-25,Queijo de cabra,Laticínio,156,"R$ 14,00","R$ 35,00",33,"R$ 1.155,00",Cláudia,Manhã,Pix
+34968,22,Fev,2019,mai.-25,Queijo suíço,Laticínio,109,"R$ 11,00","R$ 27,00",26,"R$ 715,00",Ana ,Noite,Crédito
+19678,28,Jan,2023,jan.-25,Queijo ricota,Laticínio,170,"R$ 7,00","R$ 17,00",28,"R$ 490,00",Ester,Tarde,Crédito
+78142,30,Dez,2020,fev.-25,Atum enlatado,Enlatado,122,"R$ 10,00","R$ 20,00",36,"R$ 720,00",Ana ,Noite,Dinheiro
+96428,15,Out,2018,mar.-25,Milho em conserva,Enlatado,66,"R$ 9,00","R$ 22,00",45,"R$ 1.012,00",Cláudia,Manhã,Dinheiro
+48267,25,Set,2022,fev.-25,Ervilha enlatada,Enlatado,41,"R$ 8,00","R$ 20,00",44,"R$ 880,00",Ana ,Noite,Pix
+37681,20,Mar,2017,mar.-25,Feijão enlatado,Enlatado,184,"R$ 7,00","R$ 17,00",24,"R$ 420,00",Ester,Tarde,Dinheiro
+81924,10,Abr,2021,jan.-25,Tomate enlatado,Enlatado,174,"R$ 6,00","R$ 15,00",32,"R$ 480,00",Ana ,Noite,Crédito
+26748,5,Mai,2019,fev.-25,Sopa enlatada,Enlatado,123,"R$ 6,00","R$ 15,00",43,"R$ 645,00",Ester,Tarde,Pix
+91678,12,Fev,2020,abr.-25,Pêssegos em calda,Enlatado,182,"R$ 5,00","R$ 12,00",50,"R$ 625,00",Cláudia,Manhã,Crédito
+64872,18,Jul,2019,mar.-25,Picles,Enlatado,145,"R$ 5,00","R$ 12,00",49,"R$ 612,00",Ana ,Noite,Dinheiro
+72461,22,Nov,2022,jan.-25,Salmão enlatado,Enlatado,166,"R$ 5,00","R$ 12,00",25,"R$ 12,00",Ester,Tarde,Dinheiro
+58761,28,Jan,2018,fev.-25,Enlatado de frutas,Enlatado,22,"R$ 7,00","R$ 17,00",35,"R$ 12,00",Cláudia,Manhã,Dinheiro
+86179,30,Ago,2021,abr.-25,Arroz,Grão,154,"R$ 5,00","R$ 12,00",38,"R$ 475,00",Ana ,Noite,Pix
+19642,15,Jun,2023,abr.-25,Feijão,Grão,2,"R$ 6,00","R$ 15,00",37,"R$ 555,00",Ester,Tarde,Dinheiro
+79681,25,Dez,2017,fev.-25,Lentilhas,Grão,159,"R$ 8,00","R$ 20,00",39,"R$ 780,00",Cláudia,Manhã,Dinheiro
+17468,20,Jun,2019,mar.-25,Quinoa,Grão,36,"R$ 12,00","R$ 30,00",22,"R$ 660,00",Ana ,Noite,Pix
+84961,10,Out,2018,mai.-25,Aveia,Grão,135,"R$ 7,00","R$ 17,00",47,"R$ 22,00",Ester,Tarde,Pix
+67184,5,Jul,2022,mar.-25,Farinha de trigo,Grão,82,"R$ 4,00","R$ 8,00",30,"R$ 240,00",Ana ,Noite,Pix
+51827,12,Abr,2020,jan.-25,Cevada,Grão,55,"R$ 9,00","R$ 22,00",46,"R$ 1.035,00",Cláudia,Manhã,Pix
+26849,18,Set,2023,mar.-25,Trigo sarraceno,Grão,118,"R$ 10,00","R$ 20,00",31,"R$ 620,00",Ana ,Noite,Pix
+47691,22,Fev,2017,abr.-25,Grão-de-bico,Grão,145,"R$ 9,00","R$ 22,00",20,"R$ 450,00",Ester,Tarde,Pix
+71928,28,Jan,2019,mai.-25,Milho,Grão,159,"R$ 5,00","R$ 12,00",34,"R$ 425,00",Paulo,Noite,Pix
+96874,30,Nov,2023,abr.-25,Espaguete,Massa,11,"R$ 10,00","R$ 25,00",48,"R$ 1.200,00",Ester,Tarde,Dinheiro
+19486,15,Ago,2020,jan.-25,Macarrão penne,Massa,27,"R$ 8,00","R$ 20,00",27,"R$ 540,00",Cláudia,Manhã,Débito
+62178,25,Mai,2018,abr.-25,Lasanha,Massa,40,"R$ 7,00","R$ 17,00",22,"R$ 385,00",Paulo,Noite,Débito
+87914,20,Mar,2022,mar.-25,Ravióli,Massa,137,"R$ 6,00","R$ 15,00",21,"R$ 315,00",Ester,Tarde,Dinheiro
+74816,10,Dez,2017,mai.-25,Macarrão integral,Massa,142,"R$ 6,00","R$ 15,00",23,"R$ 345,00",Cláudia,Manhã,Pix
+41698,5,Mai,2021,abr.-25,Fusilli,Massa,87,"R$ 6,00","R$ 15,00",29,"R$ 435,00",Ester,Tarde,Dinheiro
+68791,12,Jan,2019,fev.-25,Vermicelli,Massa,184,"R$ 5,00","R$ 12,00",49,"R$ 12,00",Paulo,Noite,Crédito
+21987,18,Set,2022,abr.-25,Orzo,Massa,125,"R$ 5,00","R$ 12,00",40,"R$ 500,00",Cláudia,Manhã,Pix
+68719,22,Ago,2020,mai.-25,Macarrão de ovo,Massa,62,"R$ 5,00","R$ 12,00",50,"R$ 625,00",Ester,Tarde,Pix
+98146,28,Nov,2017,jan.-25,Fettuccine,Massa,30,"R$ 5,00","R$ 12,00",41,"R$ 12,00",Paulo,Noite,Pix
+87961,30,Out,2019,fev.-25,Molho de tomate,Molho,49,"R$ 15,00","R$ 37,00",38,"R$ 1.425,00",Ester,Tarde,Débito
+16489,15,Jun,2023,mai.-25,Molho de soja,Molho,31,"R$ 12,00","R$ 30,00",42,"R$ 1.260,00",Cláudia,Manhã,Débito
+94768,25,Abr,2018,mai.-25,Molho de pimenta,Molho,178,"R$ 10,00","R$ 25,00",26,"R$ 650,00",Paulo,Noite,Crédito
+86174,20,Fev,2020,mar.-25,Molho pesto,Molho,186,"R$ 10,00","R$ 25,00",47,"R$ 1.175,00",Paulo,Noite,Dinheiro
+71684,10,Jul,2017,jan.-25,Molho de alfredo,Molho,13,"R$ 8,00","R$ 20,00",24,"R$ 480,00",Ester,Tarde,Pix
+67481,5,Mar,2022,mar.-25,Molho de churrasco,Molho,176,"R$ 8,00","R$ 20,00",22,"R$ 440,00",Cláudia,Manhã,Débito
+19847,12,Dez,2019,fev.-25,Molho de curry,Molho,81,"R$ 7,00","R$ 17,00",33,"R$ 77,00",Cláudia,Manhã,Dinheiro
+86479,18,Mai,2021,mai.-25,Molho agridoce,Molho,59,"R$ 6,00","R$ 15,00",36,"R$ 540,00",Ester,Tarde,Pix
+47968,22,Jul,2023,jan.-25,Molho de mostarda,Molho,169,"R$ 6,00","R$ 15,00",32,"R$ 480,00",Paulo,Noite,Crédito
+74681,28,Jan,2018,fev.-25,Molho de tahini,Molho,170,"R$ 5,00","R$ 12,00",31,"R$ 387,00",Ester,Tarde,Débito
+71648,30,Abr,2020,mar.-25,Água,Bebida,70,"R$ 20,00","R$ 50,00",45,"R$ 2.250,00",Cláudia,Manhã,Dinheiro
+64819,15,Out,2012,mai.-25,Refrigerante,Bebida,10,"R$ 18,00","R$ 45,00",37,"R$ 1.665,00",Paulo,Noite,Dinheiro
+81946,25,Ago,2019,mar.-25,Suco de laranja,Bebida,30,"R$ 16,00","R$ 40,00",44,"R$ 1.760,00",Cláudia,Manhã,Pix
+96471,20,Mar,2018,fev.-25,Café,Bebida,50,"R$ 15,00","R$ 37,00",35,"R$ 1.312,00",Paulo,Noite,Dinheiro
+41867,10,Set,2021,abr.-25,Chá verde,Bebida,15,"R$ 12,00","R$ 30,00",46,"R$ 1.380,00",Ester,Tarde,Débito
+18476,5,Fev,2022,mar.-25,Cerveja,Bebida,120,"R$ 10,00","R$ 25,00",48,"R$ 1.200,00",Cláudia,Manhã,Pix
+74869,12,Nov,2017,abr.-25,Vinho tinto,Bebida,10,"R$ 8,00","R$ 20,00",28,"R$ 560,00",Paulo,Noite,Pix
+68746,18,Jun,2019,abr.-25,Vinho branco,Bebida,10,"R$ 7,00","R$ 17,00",39,"R$ 682,00",Ester,Tarde,Crédito
+46178,22,Dez,2023,abr.-25,Leite de amêndoa,Bebida,20,"R$ 6,00","R$ 15,00",27,"R$ 405,00",Paulo,Noite,Dinheiro
+81976,28,Jul,2020,abr.-25,Suco de maçã,Bebida,30,"R$ 5,00","R$ 12,00",30,"R$ 375,00",Ester,Tarde,Pix
+79186,30,Ago,2018,fev.-25,Sal,Tempero,20,"R$ 6,00","R$ 15,00",25,"R$ 375,00",Cláudia,Manhã,Pix
+18674,15,Jun,2022,abr.-25,Pimenta-do-reino,Tempero,15,"R$ 4,00","R$ 10,00",43,"R$ 430,00",Paulo,Noite,Crédito
+78961,25,Mar,2017,mai.-25,Canela,Tempero,15,"R$ 7,00","R$ 17,00",21,"R$ 367,00",Ester,Tarde,Pix
+67984,20,Set,2021,mar.-25,Noz-moscada,Tempero,15,"R$ 9,00","R$ 22,00",20,"R$ 450,00",Cláudia,Manhã,Crédito
+46197,10,Fev,2019,abr.-25,Cominho,Tempero,15,"R$ 1,00","R$ 2,00",34,"R$ 85,00",Paulo,Noite,Crédito
+94718,5,Abr,2023,jan.-25,Alecrim,Tempero,15,"R$ 5,00","R$ 12,00",48,"R$ 600,00",Ester,Tarde,Débito
+19874,12,Out,2018,abr.-25,Orégano,Tempero,15,"R$ 8,00","R$ 20,00",23,"R$ 460,00",Paulo,Noite,Pix
+87469,18,Mai,2020,mar.-25,Manjericão,Tempero,15,"R$ 4,00","R$ 10,00",42,"R$ 420,00",Cláudia,Manhã,Débito
+74981,22,Jan,2022,mai.-25,Gengibre,Tempero,15,"R$ 9,00","R$ 22,00",41,"R$ 922,00",Ester,Tarde,Crédito
+98476,28,Nov,2017,abr.-25,Alho em pó,Tempero,47,"R$ 3,00","R$ 7,00",33,"R$ 247,00",Paulo,Noite,Pix
+67894,30,Dez,2019,mai.-25,Detergente,Produto de Limpeza,40,"R$ 2,00","R$ 5,00",26,"R$ 130,00",Cláudia,Manhã,Pix
+48679,15,Ago,2020,mai.-25,Sabão em pó,Produto de Limpeza,50,"R$ 8,00","R$ 20,00",29,"R$ 580,00",Ester,Tarde,Pix
+97486,25,Jun,2017,jan.-25,Desinfetante,Produto de Limpeza,14,"R$ 1,00","R$ 2,00",36,"R$ 90,00",Cláudia,Manhã,Crédito
+68947,20,Abr,2022,abr.-25,Limpador de vidros,Produto de Limpeza,50,"R$ 6,00","R$ 15,00",47,"R$ 705,00",Ester,Tarde,Débito
+78496,10,Mar,2019,mar.-25,Esponja de limpeza,Produto de Limpeza,10,"R$ 7,00","R$ 17,00",22,"R$ 385,00",Paulo,Noite,Crédito
+47918,5,Fev,2021,fev.-25,Limpador multiuso,Produto de Limpeza,25,"R$ 5,00","R$ 12,00",45,"R$ 562,00",Cláudia,Manhã,Dinheiro
+14768,12,Mai,2023,mar.-25,Água sanitária,Produto de Limpeza,71,"R$ 1,00","R$ 17,00",31,"R$ 542,00",Paulo,Noite,Pix
+67891,18,Jul,2018,abr.-25,Amaciante de roupas,Produto de Limpeza,50,"R$ 7,00","R$ 20,00",25,"R$ 500,00",Ester,Tarde,Dinheiro
+91874,22,Set,2020,mar.-25,Vassoura,Produto de Limpeza,50,"R$ 8,00","R$ 15,00",37,"R$ 555,00",Paulo,Noite,Crédito
+17896,28,Jan,2017,mai.-25,Rodo,Produto de Limpeza,32,"R$ 6,00","R$ 37,00",44,"R$ 1.650,00",Ester,Tarde,Pix
+68174,30,Out,2022,jan.-25,Pizza congelada,Congelados,40,"R$ 3,00","R$ 7,00",32,"R$ 240,00",Cláudia,Manhã,Pix
+14678,15,Nov,2019,abr.-25,Vegetais congelados,Congelados,30,"R$ 5,00","R$ 15,00",48,"R$ 720,00",Ester,Tarde,Pix
+81647,25,Dez,2018,mar.-25,Peixe congelado,Congelados,20,"R$ 4,00","R$ 10,00",39,"R$ 390,00",Cláudia,Manhã,Pix
+76481,20,Abr,2021,mai.-25,Frutas congeladas,Congelados,9,"R$ 9,00","R$ 17,00",22,"R$ 385,00",Paulo,Noite,Pix
+87619,10,Fev,2023,mar.-25,Massa congelada,Congelados,20,"R$ 2,00","R$ 20,00",33,"R$ 660,00",Ester,Tarde,Crédito
+19478,5,Ago,2017,fev.-25,Sorvete,Congelados,35,"R$ 6,00","R$ 12,00",20,"R$ 250,00",Cláudia,Manhã,Débito
+48176,12,Jun,2019,abr.-25,Batata frita congelada,Congelados,50,"R$ 4,00","R$ 10,00",50,"R$ 500,00",Paulo,Noite,Crédito
+71698,18,Jul,2021,mar.-25,Nuggets de frango,Congelados,26,"R$ 7,00","R$ 7,00",47,"R$ 352,00",Ester,Tarde,Dinheiro
+81674,22,Mai,2020,jan.-25,Empanadas congeladas,Congelados,30,"R$ 8,00","R$ 5,00",34,"R$ 170,00",Paulo,Noite,Pix
+78641,28,Mar,2018,fev.-25,Açúcar,Pós,68,"R$ 5,00","R$ 12,00",43,"R$ 537,00",Cláudia,Manhã,Dinheiro
+87461,30,Jan,2022,mai.-25,Farinha de milho,Pós,20,"R$ 4,00","R$ 7,00",26,"R$ 195,00",Cláudia,Manhã,Crédito
+64871,15,Set,2017,abr.-25,Sal refinado,Pós,20,"R$ 3,00","R$ 10,00",21,"R$ 210,00",Ester,Tarde,Pix
+18746,25,Out,2019,jan.-25,Fermento em pó,Pós,15,"R$ 2,00","R$ 5,00",25,"R$ 125,00",Paulo,Noite,Pix
+61478,20,Nov,2023,fev.-25,Cacau em pó,Pós,78,"R$ 5,00","R$ 15,00",31,"R$ 465,00",Cláudia,Manhã,Pix
+81469,10,Set,2020,abr.-25,Amido de milho,Pós,30,"R$ 3,00","R$ 7,00",30,"R$ 225,00",Ester,Tarde,Crédito
+76941,5,Jul,2018,abr.-25,Tempero em pó,Pós,90,"R$ 4,00","R$ 5,00",37,"R$ 185,00",Paulo,Noite,Débito
+98417,12,Ago,2022,fev.-25,Gelatina em pó,Pós,83,"R$ 2,00","R$ 2,00",28,"R$ 70,00",Cláudia,Manhã,Crédito
+64179,18,Fev,2017,mar.-25,Café solúvel,Pós,80,"R$ 6,00","R$ 12,00",36,"R$ 450,00",Ester,Tarde,Dinheiro
+49786,22,Out,2021,mai.-25,Pimenta em pó,Pós,65,"R$ 3,00","R$ 7,00",45,"R$ 337,00",Cláudia,Manhã,Pix
+79164,28,Mar,2019,mar.-25,Colher de pau,Pós,69,"R$ 2,00","R$ 5,00",38,"R$ 190,00",Paulo,Noite,Dinheiro
+97461,30,Jun,2020,jan.-25,Panela de pressão,Acessórios de cozinha,5,"R$ 50,00","R$ 125,00",29,"R$ 3.625,00",Ester,Tarde,Crédito
+61987,15,Jan,2022,mar.-25,Liquidificador,Acessórios de cozinha,12,"R$ 60,00","R$ 150,00",49,"R$ 7.350,00",Paulo,Noite,Pix
+96147,25,Abr,2011,mai.-25,Faca de cozinha,Acessórios de cozinha,30,"R$ 20,00","R$ 50,00",32,"R$ 1.600,00",Cláudia,Manhã,Crédito
+81769,20,Dez,2018,mar.-25,Espátula,Acessórios de cozinha,23,"R$ 5,00","R$ 12,00",44,"R$ 550,00",Paulo,Noite,Débito
+69841,10,Mai,2021,fev.-25,Peneira,Acessórios de cozinha,30,"R$ 5,00","R$ 12,00",46,"R$ 575,00",Ester,Tarde,Débito
+48617,5,Dez,2023,abr.-25,Ralador,Acessórios de cozinha,20,"R$ 10,00","R$ 25,00",23,"R$ 575,00",Cláudia,Manhã,Dinheiro
+74816,12,Jul,2017,mar.-25,Descascador de legumes,Acessórios de cozinha,15,"R$ 5,00","R$ 12,00",33,"R$ 412,00",Paulo,Noite,Pix
+46187,18,Out,2019,abr.-25,Tábua de corte,Acessórios de cozinha,10,"R$ 15,00","R$ 37,00",41,"R$ 1.537,00",Ester,Tarde,Dinheiro
+18764,22,Jan,2020,jan.-25,Forma de bolo,Acessórios de cozinha,25,"R$ 10,00","R$ 25,00",24,"R$ 600,00",Cláudia,Manhã,Dinheiro
+87416,28,Jun,2018,abr.-25,Azeite de oliva,Óleos,19,"R$ 10,00","R$ 25,00",42,"R$ 1.050,00",Paulo,Noite,Pix
+16874,30,Abr,2022,mar.-25,Óleo de canola,Óleos,59,"R$ 5,00","R$ 12,00",35,"R$ 437,00",Ester,Tarde,Pix
+61974,15,Mar,2017,fev.-25,Óleo de milho,Óleos,30,"R$ 5,00","R$ 12,00",27,"R$ 337,00",Paulo,Noite,Pix
+79468,25,Fev,2021,mai.-25,Óleo de coco,Óleos,40,"R$ 8,00","R$ 20,00",40,"R$ 800,00",Cláudia,Manhã,Pix
+76984,20,Set,2018,mai.-25,Óleo de amendoim,Óleos,67,"R$ 5,00","R$ 12,00",48,"R$ 600,00",Ester,Tarde,Pix
+74618,10,Ago,2020,mai.-25,Óleo de girassol,Óleos,58,"R$ 6,00","R$ 15,00",22,"R$ 330,00",Paulo,Noite,Pix
+87641,5,Nov,2023,jan.-25,Óleo de gergelim,Óleos,54,"R$ 7,00","R$ 17,00",21,"R$ 367,00",Cláudia,Manhã,Pix
+81694,12,Mai,2019,abr.-25,Óleo de abacate,Óleos,67,"R$ 9,00","R$ 22,00",17,"R$ 382,00",Ester,Tarde,Débito
+98461,18,Set,2020,45717,Óleo de linhaça,Óleos,20,"R$ 8,00","R$ 20,00",44,"R$ 880,00",Cláudia,Manhã,Débito
+64816,22,Mai,2017,45689,Óleo de noz,Óleos,40,"R$ 10,00","R$ 25,00",46,"R$ 1.150,00",Ester,Tarde,Crédito
